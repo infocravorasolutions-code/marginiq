@@ -48,3 +48,4 @@ MarginIQ is the operating system for e-commerce businesses selling across market
 
 - [`SYSTEM_GUIDE.md`](./SYSTEM_GUIDE.md) — Master architectural blueprint and operational guide.
 - [`PRD.md`](./PRD.md) — Detailed Product Requirements Document.
+
